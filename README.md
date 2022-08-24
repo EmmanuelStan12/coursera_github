@@ -1,2 +1,3 @@
-# coursera_github
-This is the task on week 3 in Introduction to Git and Github in coursera
+# Introduction to Git and Github in Coursera
+
+I am editing the README file. Adding some more details about the project description.
